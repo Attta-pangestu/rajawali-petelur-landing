@@ -5,7 +5,7 @@
     <div class="blog-grid">
       <!-- Blog Card 1 -->
       <div class="blog-card">
-        <img src="@/assets/blog1.jpg" alt="Peternakan Ayam Modern" class="blog-image">
+        <img src="https://lenteradesa.id/api/v1/assets/article/rWsUiiXsct8K6T3RmN-3zQa05YkClaH0GFhec9aI.png.webp" alt="Peternakan Ayam Modern" class="blog-image">
         <div class="blog-content">
           <h2>Peternakan Ayam Modern di Era Digital</h2>
           <p class="blog-date">11 Desember 2024</p>
@@ -18,7 +18,7 @@
 
       <!-- Blog Card 2 -->
       <div class="blog-card">
-        <img src="@/assets/blog2.jpg" alt="Kualitas Telur" class="blog-image">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZozkbMNHwv-sXrLs2ze7TGvqSgAfrrROhsg&s" alt="Kualitas Telur" class="blog-image">
         <div class="blog-content">
           <h2>Tips Memilih Telur Berkualitas</h2>
           <p class="blog-date">10 Desember 2024</p>

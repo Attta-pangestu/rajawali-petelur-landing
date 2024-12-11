@@ -11,7 +11,7 @@
     <p class="animate-text">Rajanya Telur dan Ayam</p>
     <div class="button1 animate-buttons">
       <a href="#explore" class="cta-button">Tentang Kami</a>
-      <a href="#explore" class="cta-button">Blog</a>
+      <a href="/blog" class="cta-button">Blog</a>
     </div>
   </div>
 </template>
